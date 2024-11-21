@@ -1,1 +1,1 @@
-# technically-to-do
+Imagine, if you will, a small imp confined within your mobile device, diligently noting down every task you might forget by tea time and occasionally reminding you with the subtlety of a brick through a window. This isn't just any to-do app; it's a cheeky little companion that winks, nudges, and sometimes outright pesters you into bringing a semblance of order to the delightful chaos of your life.
