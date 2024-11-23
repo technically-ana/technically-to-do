@@ -4,7 +4,7 @@ import android.content.Intent
 import android.os.Bundle
 import android.view.Menu
 import android.view.MenuItem
-import android.widget.Toolbar
+import android.view.WindowManager
 import androidx.appcompat.app.AppCompatActivity
 import edu.techana.technicallytodo.databinding.ActivityMainBinding
 
@@ -17,7 +17,6 @@ class MainActivity : AppCompatActivity() {
         setContentView(binding.root)
         // binding.toolbar is a ref to the Toolbar widget
         setSupportActionBar(binding.toolbar) // Toolbar is now used as an activity's action bar
-
 
     }
 
